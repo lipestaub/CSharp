@@ -1,0 +1,10 @@
+E:\TI\ModuloC\Aula 12 LP\PrimeiroProgramaWinForms\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\TI\ModuloC\Aula 12 LP\PrimeiroProgramaWinForms\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\TI\ModuloC\Aula 12 LP\PrimeiroProgramaWinForms\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\TI\ModuloC\Aula 12 LP\PrimeiroProgramaWinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+E:\TI\ModuloC\Aula 12 LP\PrimeiroProgramaWinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormPrincipal.resources
+E:\TI\ModuloC\Aula 12 LP\PrimeiroProgramaWinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\TI\ModuloC\Aula 12 LP\PrimeiroProgramaWinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+E:\TI\ModuloC\Aula 12 LP\PrimeiroProgramaWinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\TI\ModuloC\Aula 12 LP\PrimeiroProgramaWinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\TI\ModuloC\Aula 12 LP\PrimeiroProgramaWinForms\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
